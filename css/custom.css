@@ -38,14 +38,30 @@
 }
 
 h1 {
+  font-family:'Lobster';
   color:#FFF;
+  font-size: 70;
+}
+
+h5 {
+  font-family:'Raleway';
+  color:#FFF;
+  font-size: 35;
 }
 
 h2 {
+  font-family:'Lobster';
   color:#000;
   text-align: center;
 }
 
+h3, p {
+  font-family:'Raleway';
+}
+
+li {
+  font-family:'Raleway';
+}
 .responsiveCal {
   text-align: center;
 }
@@ -95,4 +111,19 @@ h2 {
 }
 .portfolio-box:focus {
   outline: none;
+}
+
+/* Font awesome */
+
+.fa {
+  padding-bottom: 10px;
+  color: rgba(240, 95, 64, 0.9);
+}
+
+#navbar ul li a:hover {
+  background-color: rgba(240, 95, 64, 0.9);
+}
+
+#navbar ul li a:focus {
+  background-color: rgba(240, 95, 64, 0.9);
 }
