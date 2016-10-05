@@ -57,3 +57,9 @@ and (max-width:991px){
     height: 800px;
   }
 }
+
+@media screen and (webkit-min-device-pixel-ratio: 2) {
+  #about {
+    height: 500px;
+  }
+}
