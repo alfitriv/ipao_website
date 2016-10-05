@@ -58,7 +58,7 @@ and (max-width:991px){
   }
 }
 
-@media screen and (webkit-min-device-pixel-ratio: 2) {
+@media only screen (max-width: 320px) and (webkit-min-device-pixel-ratio: 2) {
   #about {
     height: 500px;
   }
