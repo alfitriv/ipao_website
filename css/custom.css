@@ -1,5 +1,5 @@
 #header {
-  background: url('../img/ipao-group2.jpg');
+  background: url('../img/ipao-group2.jpg') no-repeat center center fixed;
   height: 800px;
   margin: 0;
   padding: 200px 0 260px 0;
