@@ -41,12 +41,18 @@ h1 {
   font-family:'Lobster';
   color:#FFF;
   font-size: 70;
+  position: relative;
+  top: 50px;
+  text-shadow: 1px 1px 1px #000;
 }
 
 h5 {
   font-family:'Raleway';
   color:#FFF;
   font-size: 35;
+  position: relative;
+  top: 50px;
+  text-shadow: 1px 1px 1px #000;
 }
 
 h2 {
