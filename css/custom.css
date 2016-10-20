@@ -15,9 +15,9 @@
 
 #gallery {
   background-color: #FFF;
-  height: 600px;
+  height: 300px;
   margin: 0;
-  padding: 60px 0 260px 0;
+  padding: 70px 0 260px 0;
   overflow: hidden;
 }
 
@@ -42,7 +42,7 @@ h1 {
   color:#FFF;
   font-size: 70;
   position: relative;
-  top: 30px;
+  top: 10px;
   text-shadow: 1px 1px 1px #000;
 }
 
@@ -51,7 +51,7 @@ h5 {
   color:#FFF;
   font-size: 35;
   position: relative;
-  top: 30px;
+  top: 10px;
   text-shadow: 1px 1px 1px #000;
 }
 
