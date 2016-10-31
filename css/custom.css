@@ -37,6 +37,13 @@
   overflow: hidden;
 }
 
+#logo {
+  float: left;
+  height: 45px;
+  width: 45px;
+  margin-top: -15px;
+}
+
 h1 {
   font-family:'Lobster';
   color:#FFF;
